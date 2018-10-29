@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information</desc>
+	<servicetype>korea</servicetype>
+	<servertype>sakray</servertype>
+	<extendedslot />
+	<readfolder />
+	
+	<connection>
+		<display>SmartRO</display>
+		<desc></desc>
+		<balloon></balloon>
+		<address>35.198.13.70</address>
+		<port>6900</port>
+		<version>32</version>
+		<langtype>12</langtype>
+      		<registrationweb>http://smart-ro.com.br</registrationweb>
+		<aid>
+			<admin>2000000</admin>
+			<admin>2000001</admin>
+			<admin>2000002</admin>
+			<admin>2000003</admin>
+			<admin>2000004</admin>
+			<admin>2000005</admin>
+			<admin>2000006</admin>
+		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+		</loading>
+	</connection>
+	
+</clientinfo>
