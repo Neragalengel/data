@@ -49215,7 +49215,199 @@ Classes que utilizam: ^777777Todas^000000
 
 // Smart-Ro Custom Ygg Pets
 9057#
-O ovo onde o bichinho de estimação Donzela Verde dorme.
+O ovo onde o bichinho de estimação Blazing Imp dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9058#
+O ovo onde o bichinho de estimação Abyss Boss dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9059#
+O ovo onde o bichinho de estimação almaosce dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9060#
+O ovo onde o bichinho de estimação Blue Insectivore Slime dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9061#
+O ovo onde o bichinho de estimação Yellow Insectivore Slime dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9062#
+O ovo onde o bichinho de estimação Butterfly Wings dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9063#
+O ovo onde o bichinho de estimação CD dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9064#
+O ovo onde o bichinho de estimação Doram dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9065#
+O ovo onde o bichinho de estimação EmissionBat dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9066#
+O ovo onde o bichinho de estimação Eye of Time dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9067#
+O ovo onde o bichinho de estimação fahrros dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9068#
+O ovo onde o bichinho de estimação Flying Mote dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9069#
+O ovo onde o bichinho de estimação Frozen Rose dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9070#
+O ovo onde o bichinho de estimação HARMOR dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9071#
+O ovo onde o bichinho de estimação HAZ SPPO dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9072#
+O ovo onde o bichinho de estimação LIGHTNINGGUARD dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9073#
+O ovo onde o bichinho de estimação mano dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9074#
+O ovo onde o bichinho de estimação CMKN WTRAININGD dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9075#
+O ovo onde o bichinho de estimação Mote dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9076#
+O ovo onde o bichinho de estimação Nightmare Golem dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9077#
+O ovo onde o bichinho de estimação Nightmare Mushroom dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9078#
+O ovo onde o bichinho de estimação Papercraft Horror dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9079#
+O ovo onde o bichinho de estimação plantsoul dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9080#
+O ovo onde o bichinho de estimação PriestMummy dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9081#
+O ovo onde o bichinho de estimação Puppet dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9082#
+O ovo onde o bichinho de estimação Raven1 dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9083#
+O ovo onde o bichinho de estimação Red Headphones dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9084#
+O ovo onde o bichinho de estimação Yellow Headphones dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9085#
+O ovo onde o bichinho de estimação Sign Ghost dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9086#
+O ovo onde o bichinho de estimação Stoplight Ghost dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9087#
+O ovo onde o bichinho de estimação Tantalus dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9088#
+O ovo onde o bichinho de estimação treesoul dorme.
+Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+Alimento: ^777777Bolo para Bichinho^000000
+Tipo: ^777777Ovo de Bichinho^000000
+#
+9089#
+O ovo onde o bichinho de estimação thanat2 dorme.
 Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
