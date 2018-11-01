@@ -7,10 +7,10 @@
 	<readfolder />
 	
 	<connection>
-		<display>SmartRO</display>
-		<desc></desc>
-		<balloon></balloon>
-		<address>35.198.13.70</address>
+		<display>^FF6600SmartRO^000000 ^000000-^000000 ^0000FF300/150^000000</display>
+		<desc>15k/15k - Stats: 280</desc>
+		<balloon>15k/15k - Stats: 280</balloon>
+		<address>158.69.104.173</address>
 		<port>6900</port>
 		<version>32</version>
 		<langtype>12</langtype>
@@ -32,5 +32,5 @@
 			<image>loading04.jpg</image>
 		</loading>
 	</connection>
-	
+	<registrationweb>http://smart-ro.com.br</registrationweb>
 </clientinfo>
