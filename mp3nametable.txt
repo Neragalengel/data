@@ -793,3 +793,4 @@ pvp_2vs2.rsw#bgm\\02.mp3#
 pvp_room.rsw#bgm\\52.mp3#
 que_moon.rsw#bgm\\65.mp3#
 storyro.rsw#bgm\\08.mp3#
+new_zone01.rsw#bgm\\new_zone01.mp3#
