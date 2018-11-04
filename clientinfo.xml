@@ -3,9 +3,6 @@
 	<desc>Ragnarok Client Information</desc>
 	<servicetype>korea</servicetype>
 	<servertype>sakray</servertype>
-	<extendedslot />
-	<readfolder />
-	
 	<connection>
 		<display>^FF6600SmartRO^000000 ^000000-^000000 ^0000FF300/150^000000</display>
 		<desc>15k/15k - Stats: 280</desc>

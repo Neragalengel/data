@@ -651,3 +651,21 @@
 
 30000#sorry#
 30001#sorry#
+
+// ========================== SMARTRO CARTAS LHZ ============================== //
+//Cartas LHZ04 MVP's
+30015#g_randel#
+30002#g_flamel#
+30003#g_celia#
+30004#g_chen#
+30005#g_gertie#
+30006#g_alphoccio#
+30007#g_trentini#
+// Cartas LHZ04
+30008#randel#
+30009#flamel#
+30010#celia#
+30011#chen#
+30012#gertie#
+30013#alphoccio#
+30014#trentine#

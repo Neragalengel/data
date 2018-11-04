@@ -1145,3 +1145,21 @@
 9087#Ovo_de_Tantalus#
 9088#Ovo_de_treesoul#
 9089#Ovo_de_thanat2#
+
+// =========== SMARTRO CARTAS CUSTOM ===================== //
+//Cartas LHZ04 Mvp's
+30015#Carta_do_Paladino_Randel#
+30002#Carta_do_Criador_Flamel#
+30003#Carta_da_Professora_Celia#
+30004#Carta_do_Mestre_Chen#
+30005#Carta_da_Desordeira_Gertie#
+30006#Carta_do_Menestrel_Alphoccio#
+30007#Carta_da_Cigana_Trentini#
+//Cartas LHZ04
+30008#Carta_Randel#
+30009#Carta_Flamel#
+30010#Carta_Celia#
+30011#Carta_Chen#
+30012#Carta_Gertie#
+30013#Carta_Alphoccio#
+30014#Carta_Trentini#

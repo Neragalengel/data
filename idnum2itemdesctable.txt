@@ -49413,4 +49413,145 @@ Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
 
+
+// ============================================= SMARTRO CARTAS CUSTOM ====================================================== //
+// Cartas LHZ04 MVP'S
+30015#
+Uma Carta de um Paladino que ultrapassou seus limites , e após a morte sua alma ainda não descansa.
+^ffffff_^000000
+Bonus: ^0000FFAo receber dano físico , há uma grande chance de Conjurar Cruz Divinum. Maximum HP +10 %.^FF0000
+Bonus: ^0000FFSe INT é de 110 ou mais , HP adicional 10 %.^FF0000
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+#
+30002#
+Uma Carta de um Criador que desenvolveu uma alquimia tão poderosa, que ninguem foi capaz de contê-la, até mesmo seu criador morreu.Sua alma ainda vaga sobe o BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Ao receber dano físico , há uma grande chance de conjurar Terror Ácido.CRI 20
+Bonus:  ^0000FFSe STR é de 110 ou mais , adicional +20 CRI .^FF0000.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+#
+30003#
+Uma Carta de uma Professora Maligna, cujos interesses eram dominar todas as magias negras, sua alma se corrompeu e continua vagando sobre BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Quando atingido por magia , há uma grande chance de conjurar Proteger Terreno. MATK 7 %
+Bonus: Se DEX é de 110 ou mais , 14 % MATK 
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+#
+30004#
+Uma Carta de um Mestre que fugiu do monastério, em busca de um poder absoluto.Dado como sumido, há rumores de sua alma vagando sobre BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Ao receber dano físico , há uma grande chance de conjurar a habilidade Impacto Psíquico. ATK 7 %
+Bonus: Se AGI é de 110 ou mais , 14 % ATK .
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+#
+30005#
+Uma Carta de uma Desordeira que afanava todas as cidades, Após sua morte, sua alma foi aprisionada em BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Ao receber dano físico , há uma grande chance de conjurar Remoção Total . HIT +20
+Bonus: Se LUK é de 110 ou mais , 20 HIT adicional.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+Servidor: ^0000FFEvolution^FF0000BR^000000
+#
+30006#
+Uma Carta de Menestrel que passou dias de sua vida compondo musicas e poesias, morreu de flúido sanguíneo, sua alma vaga sobre BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Permite o uso de Poema de Bragi em nível 10. Esquiva +20 
+Bonus: Se VIT é 110 ou mais , +20 adicional esquiva.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+#
+30007#
+Uma Carta de uma Cigana BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Permite o uso de nível 10 da habilidade Beijo da Cigana. Esquiva +20
+Bonus: Se VIT é 110 ou mais , +20 adicional esquiva.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Armadura^000000
+#
+
+// Cartas LHZ04
+30008#
+Uma Carta de um Paladino que ultrapassou seus limites , e após a morte sua alma ainda não descansa.
+^ffffff_^000000
+Bonus: ^0000FFEsquiva +10. Permite o uso de Bloqueio Level 3. ^FF0000
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+30009#
+Uma Carta de um Criador que desenvolveu uma alquimia tão poderosa, que ninguem foi capaz de contê-la, até mesmo seu criador morreu.Sua alma ainda vaga sobe o BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus:  ^0000FFEsquiva +10. Aumenta a eficácia de vermelhas, amarelas e brancas em Poções Compactas em 200%. ^FF0000.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+30010#
+Uma Carta de uma Professora Maligna, cujos interesses eram dominar todas as magias negras, sua alma se corrompeu e continua vagando sobre BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Esquiva +10. Permite o uso de Abracadabra Nivel 1. 
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+30011#
+Uma Carta de um Mestre que fugiu do monastério, em busca de um poder absoluto.Dado como sumido, há rumores de sua alma vagando sobre BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Esquiva +10. Permite o uso de Invocar Esfera Nível 2. 
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+30012#
+Uma Carta de uma Desordeira que afanava todas as cidades, Após sua morte, sua alma foi aprisionada em BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Esquiva +10. Permite o uso de Confinamento Nivel 1.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+30013#
+Uma Carta de Menestrel que passou dias de sua vida compondo musicas e poesias, morreu de flúido sanguíneo, sua alma vaga sobre BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Esquiva +10. Se usado por um Bardo, HP máximo 10% e máximo de SP +5%.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+30014#
+Uma Carta de uma Cigana BioLaboratório de Lighthalzen.
+^ffffff_^000000
+Bonus: Esquiva +10. Quando usado por uma Dancer, HP máximo +10%, máximo SP +5%.
+
+Peso: ^6666661^000000
+Tipo: ^666666carta^000000
+Equipa em: ^666666Manto^000000
+#
+
+
 //file end

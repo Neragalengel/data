@@ -685,3 +685,21 @@
 //=================================
 30000#da Lua#
 30001#do Diabolus Furioso#
+
+// ========================== SMARTRO CARTAS LHZ ============================== //
+//Cartas LHZ04 MVP's
+30015#da Grande Crux#
+30002#do Ácido Clorídrico#
+30003#da Proteção Mágica#
+30004#da Penetração#
+30005#da Fanagem#
+30006#do Bragi#
+30007#da Sorte#
+// Cartas LHZ04
+30008#do Robuste#
+30009#da Recuperação Rápida#
+30010#do Gênesis#
+30011#da Origem#
+30012#da Aldácia#
+30013#do Bardo#
+30014#da Dancer#
