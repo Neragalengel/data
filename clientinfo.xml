@@ -10,8 +10,7 @@
 		<address>158.69.104.173</address>
 		<port>6900</port>
 		<version>32</version>
-		<langtype>12</langtype>
-      		<registrationweb>http://smart-ro.com.br</registrationweb>
+		<langtype>6</langtype>
 		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>
@@ -27,6 +26,9 @@
 			<image>loading02.jpg</image>
 			<image>loading03.jpg</image>
 			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
 		</loading>
 	</connection>
 	<registrationweb>http://smart-ro.com.br</registrationweb>
