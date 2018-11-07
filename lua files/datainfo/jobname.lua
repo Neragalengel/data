@@ -2394,5 +2394,7 @@ JobNameTable = {
 	[3322] = "SPROURING",
 	[3323] = "WHISPERING",
 	[3324] = "WHITEPORING",
+	[3325] = "SKELING",
+	[3326] = "DEVILRING",
 
 }
