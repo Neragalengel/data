@@ -4,13 +4,13 @@
 	<servicetype>korea</servicetype>
 	<servertype>sakray</servertype>
 	<connection>
-		<display>^FF6600SmartRO^000000 ^000000-^000000 ^0000FF300/150^000000</display>
+		<display>^FF6600SmartRO^000000 ^000000-^000000 ^0000FFSeason II^000000</display>
 		<desc>15k/15k - Stats: 280</desc>
 		<balloon>15k/15k - Stats: 280</balloon>
 		<address>158.69.104.173</address>
 		<port>6900</port>
 		<version>32</version>
-		<langtype>6</langtype>
+		<langtype>12</langtype>
 		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>

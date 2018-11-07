@@ -1163,3 +1163,11 @@
 30012#Carta_Gertie#
 30013#Carta_Alphoccio#
 30014#Carta_Trentini#
+
+// ================ Novos Custons SMARTRO ========================= //
+28000#ADM#
+28001#GM#
+28002#CM#
+28003#EM#
+28004#290#
+

@@ -187,7 +187,7 @@
     <model id="185" lightopacity="1" />
     <model id="186" lightopacity="1" />
     <model id="187" lightopacity="1" />
-    <model id="188" lightopacity="1" />
+    <model id="188" lightopacity="0" />
     <model id="189" lightopacity="1" />
     <model id="190" lightopacity="1" />
     <model id="191" lightopacity="1" />
@@ -776,8 +776,8 @@
     <model id="774" lightopacity="1" />
     <model id="775" lightopacity="1" />
     <model id="776" lightopacity="1" />
-    <model id="777" lightopacity="1" />
-    <model id="778" lightopacity="1" />
+    <model id="777" lightopacity="0" />
+    <model id="778" lightopacity="0" />
     <model id="779" lightopacity="1" />
     <model id="780" lightopacity="1" />
     <model id="781" lightopacity="1" />
@@ -1160,7 +1160,7 @@
     <model id="1158" lightopacity="1" />
     <model id="1159" lightopacity="1" />
     <model id="1160" lightopacity="1" />
-    <model id="1161" lightopacity="1" />
+    <model id="1161" lightopacity="0" />
     <model id="1162" lightopacity="1" />
     <model id="1163" lightopacity="1" />
     <model id="1164" lightopacity="1" />
@@ -1203,7 +1203,7 @@
     <model id="1201" lightopacity="1" />
     <model id="1202" lightopacity="1" />
     <model id="1203" lightopacity="1" />
-    <model id="1204" lightopacity="1" />
+    <model id="1204" lightopacity="0" />
     <model id="1205" lightopacity="1" />
     <model id="1206" lightopacity="1" />
     <model id="1207" lightopacity="1" />
@@ -1277,7 +1277,7 @@
     <model id="1275" lightopacity="1" />
     <model id="1276" lightopacity="1" />
     <model id="1277" lightopacity="1" />
-    <model id="1278" lightopacity="0" />
+    <model id="1278" lightopacity="1" />
     <model id="1279" lightopacity="1" />
     <model id="1280" lightopacity="1" />
     <model id="1281" lightopacity="1" />
@@ -1290,7 +1290,7 @@
     <model id="1288" lightopacity="1" />
     <model id="1289" lightopacity="1" />
     <model id="1290" lightopacity="1" />
-    <model id="1291" lightopacity="0" />
+    <model id="1291" lightopacity="1" />
     <model id="1292" lightopacity="1" />
     <model id="1293" lightopacity="1" />
     <model id="1294" lightopacity="1" />
@@ -1308,7 +1308,7 @@
     <model id="1306" lightopacity="1" />
     <model id="1307" lightopacity="1" />
     <model id="1308" lightopacity="1" />
-    <model id="1309" lightopacity="1" />
+    <model id="1309" lightopacity="0" />
     <model id="1310" lightopacity="1" />
     <model id="1311" lightopacity="1" />
     <model id="1312" lightopacity="1" />
@@ -1417,17 +1417,16 @@
     <model id="1415" lightopacity="1" />
     <model id="1416" lightopacity="1" />
     <model id="1417" lightopacity="1" />
-    <model id="1418" lightopacity="1" />
-    <model id="1419" lightopacity="1" />
-    <model id="1420" lightopacity="1" />
-    <model id="1421" lightopacity="1" />
-    <model id="1422" lightopacity="1" />
-    <model id="1423" lightopacity="1" />
-    <model id="1424" lightopacity="1" />
-    <model id="1425" lightopacity="1" />
-    <model id="1426" lightopacity="1" />
-    <model id="1427" lightopacity="1" />
-    <model id="1428" lightopacity="1" />
-    <model id="1429" lightopacity="1" />
 </models>
-<lights />
+<lights>
+    <light id="0" givesshadow="false">
+        <range>2000.000000</range>
+        <maxlightincrement>256.000000</maxlightincrement>
+        <lightfalloff>0.100000</lightfalloff>
+    </light>
+    <light id="1" givesshadow="true">
+        <range>2000.000000</range>
+        <maxlightincrement>256.000000</maxlightincrement>
+        <lightfalloff>0.100000</lightfalloff>
+    </light>
+</lights>
