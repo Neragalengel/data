@@ -2368,6 +2368,18 @@ JobNameTable = {
 	[3131] = "T_Chen",
 	[3132] = "T_Trentini",
 	[3133] = "T_Alphoccio",
+	-- BANDEIRAS PARA TESTES DE DANO EM ELEMENTOS --
+	[3134] = "earth_practice_target",
+	[3135] = "emperium_practice_target",
+	[3136] = "fire_practice_target",
+	[3137] = "ghost_practice_target",
+	[3138] = "holy_practice_target",
+	[3139] = "neutral_practice_target",
+	[3140] = "poison_practice_target",
+	[3141] = "shadow_practice_target",
+	[3142] = "undead_practice_target",
+	[3143] = "water_practice_target",
+	[3144] = "wind_practice_target",	
 	-- PORINGS SMARTRO -- 
 	[3300] = "AQUARING",
 	[3301] = "BLACKNEKORING",
