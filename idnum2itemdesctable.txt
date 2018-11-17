@@ -49558,6 +49558,10 @@ Equipa em: ^666666Manto^000000
 28002#PLACA DE CM#
 28003#PLACA DE EM#
 28004#290#
+28005#
+Uma licença do servidor ^FF6600SmartRO^000000 para os Mercadores, que permite abrir uma Loja em ^0000FFPRONTERA^000000.
+Peso : ^7777771^000000
+#
 
 
 //file end

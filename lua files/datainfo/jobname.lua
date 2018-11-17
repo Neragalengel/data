@@ -2231,7 +2231,7 @@ JobNameTable = {
 	[jobtbl.JT_storying26] = "storying26",
 	[jobtbl.JT_storying27] = "storying27",
 	[jobtbl.JT_storying28] = "storying28",
-	--SmartRo Custom Mobs
+	--SEASON II - Custom Mobs
 	[3000] = "kamimoon",
 	[3001] = "Blazing_Imp",
 	[3002] = "abyss_boss",
@@ -2336,7 +2336,7 @@ JobNameTable = {
 	[3101] = "Seth",
 	[3102] = "Simbatta",
 	[3103] = "Standing_Salamander",
-	-- LHZ SMARTRO --
+	-- SEASON II - LHZ SMARTRO --
 	[3104] = "ALPHOCCIO",
 	[3105] = "CELIA",	
 	[3106] = "CHEN",
@@ -2351,7 +2351,7 @@ JobNameTable = {
 	[3115] = "G_GERTIE",
 	[3116] = "G_RANDEL",
 	[3117] = "G_TRENTINI",
-	--  LHZ 3RD CLASSES --
+	--  SEASON II - LHZ 3RD CLASSES --
 	[3118] = "Brooke",
 	[3119] = "Chloe",
 	[3120] = "Ivan",
@@ -2368,7 +2368,7 @@ JobNameTable = {
 	[3131] = "T_Chen",
 	[3132] = "T_Trentini",
 	[3133] = "T_Alphoccio",
-	-- BANDEIRAS PARA TESTES DE DANO EM ELEMENTOS --
+	-- SEASON II - BANDEIRAS PARA TESTES DE DANO EM ELEMENTOS --
 	[3134] = "earth_practice_target",
 	[3135] = "emperium_practice_target",
 	[3136] = "fire_practice_target",
@@ -2379,8 +2379,42 @@ JobNameTable = {
 	[3141] = "shadow_practice_target",
 	[3142] = "undead_practice_target",
 	[3143] = "water_practice_target",
-	[3144] = "wind_practice_target",	
-	-- PORINGS SMARTRO -- 
+	[3144] = "wind_practice_target",
+	--SEASON II - Custom Mobs
+	[3145] = "ABYSSKNARTHUR",
+	[3146] = "BASIFIGHTER",
+	[3147] = "BASIMAGE",
+	[3148] = "BASIPALADIN",
+	[3149] = "EASTEREGGPINK",
+	[3150] = "EASTEREGGRED",
+	[3151] = "HALLOWPIANO",
+	[3152] = "HHEADLESSMULE",
+	[3153] = "SKELIONS",
+	-- SEASON II - CRISTAIS SMARTRO
+	[3154] = "HAZ_CRYSTAL2_BLU",
+	[3155] = "HAZ_CRYSTAL2_GRN",
+	[3156] = "HAZ_CRYSTAL2_RED",
+	[3157] = "HAZ_CRYSTAL2_YLW",
+	[3158] = "CRYSTAL_BLK",
+	[3159] = "CRYSTAL_BLU",
+	[3160] = "CRYSTAL_GRN",
+	[3161] = "CRYSTAL_ORG",
+	[3162] = "CRYSTAL_PRP",
+	[3163] = "CRYSTAL_RED",
+	[3164] = "CRYSTAL_WHT",
+	[3165] = "CRYSTAL_YLW",
+	-- SEASON II - BAUS SMARTRO
+	[3166] = "HAZ_CHEST_BLK",
+	[3167] = "HAZ_CHEST_BLU",
+	[3168] = "HAZ_CHEST_CYN",
+	[3169] = "HAZ_CHEST_GRN",
+	[3170] = "HAZ_CHEST_ORG",
+	[3171] = "HAZ_CHEST_PNK",
+	[3172] = "HAZ_CHEST_PRP",
+	[3173] = "HAZ_CHEST_RED",
+	[3174] = "HAZ_CHEST_WHT",
+	[3175] = "HAZ_CHEST_YLW",
+	-- SEASON II - PORINGS SMARTRO -- 
 	[3300] = "AQUARING",
 	[3301] = "BLACKNEKORING",
 	[3302] = "BLOODRING",
@@ -2408,5 +2442,10 @@ JobNameTable = {
 	[3324] = "WHITEPORING",
 	[3325] = "SKELING",
 	[3326] = "DEVILRING",
-
+	[3327] = "ACIDRING",
+	[3328] = "EGGRING",
+	[3329] = "GOLDRING",
+	[3330] = "NATURING",
+	[3331] = "KING_PORING",
+	
 }

@@ -28,8 +28,8 @@
 			<image>loading04.jpg</image>
 			<image>loading05.jpg</image>
 			<image>loading06.jpg</image>
-			<image>loading07.jpg</image>
 		</loading>
+		<registrationweb>http://smart-ro.com.br/?module=account&action=create</registrationweb>
 	</connection>
-	<registrationweb>http://smart-ro.com.br</registrationweb>
+
 </clientinfo>
