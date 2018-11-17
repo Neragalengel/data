@@ -5734,6 +5734,7 @@
 21059#Caixa de Galhos Sangrentos Supremo#
 21060#Caixa de Premiação PvP#
 21061#Ticket de Acesso SmartRO#
+21064#Pack_Iniciante#
 //=======================================================
 // SEASON II - Custons Novos
 //=======================================================

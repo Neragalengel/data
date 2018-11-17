@@ -43734,6 +43734,14 @@ Caveira obtida após confrontes nas Arenas de Batalha.
 ^0000FFSistema de ajuda ao jogadores VIP. 
 Para ter acesso basta ter uma conta VIP.^000000
 #
+
+21064#
+[ ^008000Pack Iniciante^000000 ]
+^0000FFPacotes de ajuda aos novos jogadores do SmartRO. Abra e receba itens e equipamentos.^000000
+^0000FFPara mais informações, acesse o fórum: http://SmartRO.com/forum^000000
+
+Peso : ^77777710^000000
+#
 //===========================================================
 // SmartRO - Equipamentos Para a Cabeça [TOPO]
 //===========================================================

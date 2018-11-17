@@ -42,7 +42,6 @@ morocc_in.rsw#
 payon_in01.rsw#
 payon_in02.rsw#
 payon_in03.rsw#
-prt_in.rsw#
 prt_castle.rsw#
 prt_church.rsw#
 in_orcs01.rsw#
