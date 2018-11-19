@@ -190,9 +190,9 @@
 5685#Réplica do Militar#
 5686#Répica do Alado#
 5687#Réplica do Guerreiro#
-6266#Chave da Decepção#
-6267#Chave da Ilusão#
-6268#Chave da Diversão#
+6266#Chave de Bronze#
+6267#Chave de Prata#
+6268#Chave de Ouro#
 6269#Pincel Mágico#
 6270#Foto de Mello Dias#
 6271#Recibo de Loja#
@@ -5735,6 +5735,7 @@
 21060#Caixa de Premiação PvP#
 21061#Ticket de Acesso SmartRO#
 21064#Pack_Iniciante#
+21065#Caixa_de_Enriquecidos_Avançados#
 //=======================================================
 // SEASON II - Custons Novos
 //=======================================================

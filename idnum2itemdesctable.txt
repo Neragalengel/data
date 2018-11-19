@@ -33430,15 +33430,18 @@ Nível necessário: ^7777771^000000
 Classes que utilizam: ^777777Todas^000000
 #
 6266#
-Uma chave com a gravação 'Decepção'. Não se sabe o que ela pode abrir.
+[ ^008000SmartRO^000000 ]
+Chave de Bronze usada pra abrir o Baú de Visuais.
 Peso: ^7777770^000000
 #
 6267#
-Uma chave com a gravação 'Ilusão'. Não se sabe o que ela pode abrir.
+[ ^008000SmartRO^000000 ]
+Chave de Prata usada pra abrir o Baú de Visuais.
 Peso: ^7777770^000000
 #
 6268#
-Uma chave com a gravação 'Diversão'. Não se sabe o que ela pode abrir.
+[ ^008000SmartRO^000000 ]
+Chave de Ouro usada pra abrir o Baú de Visuais.
 Peso: ^7777770^000000
 #
 6269#
@@ -43739,6 +43742,12 @@ Para ter acesso basta ter uma conta VIP.^000000
 [ ^008000Pack Iniciante^000000 ]
 ^0000FFPacotes de ajuda aos novos jogadores do SmartRO. Abra e receba itens e equipamentos.^000000
 ^0000FFPara mais informações, acesse o fórum: http://SmartRO.com/forum^000000
+
+Peso : ^77777710^000000
+#
+21065#
+[ ^008000Caixa SmartRO^000000 ]
+Caixa que contém 3 ^0000FFBradium^000000 perfeito e 3 ^0000FFCarnium^000000 perfeito.
 
 Peso : ^77777710^000000
 #
