@@ -1295,7 +1295,7 @@
     <model id="1293" lightopacity="1" />
     <model id="1294" lightopacity="1" />
     <model id="1295" lightopacity="1" />
-    <model id="1296" lightopacity="1" />
+    <model id="1296" lightopacity="0" />
     <model id="1297" lightopacity="1" />
     <model id="1298" lightopacity="1" />
     <model id="1299" lightopacity="1" />
@@ -1307,7 +1307,7 @@
     <model id="1305" lightopacity="1" />
     <model id="1306" lightopacity="1" />
     <model id="1307" lightopacity="1" />
-    <model id="1308" lightopacity="0" />
+    <model id="1308" lightopacity="1" />
     <model id="1309" lightopacity="1" />
     <model id="1310" lightopacity="1" />
     <model id="1311" lightopacity="1" />
