@@ -34577,12 +34577,6 @@ Peso: ^7777770^000000
 Diário sincero sobre as coisas que ciranças devem fazer no dia a dia.
 Peso: ^7777770^000000
 #
-9058#
-Um ovo dentro do qual uma linda Lebre da Neve adormeceu. Usando uma Incubadora, você pode acordá-la.
-Durante o evento, aumenta a EXP em 5% se usada junto com uma Lebre da Neve.
-Tipo: ^777777Ovo de Bichinho de Estimação^000000
-Comida: ^777777Bala^000000
-#
 
 //---- CASH Items January 2011 ----
 2855#
@@ -42038,13 +42032,7 @@ Defesa: ^7777770^000000
 Peso: ^77777710^000000
 Classe: ^777777Todas as Classes^000000
 #
-9059#
-Ovo de Bichinho de Tikbalang. 
-Você pode chocar o ovo com uma [Incubadora].
-Aumenta em 10% o dano em Bakonawa, Bangungot e Buwaya. 
-DEFM + 3.
-Tipo: ^777777Ovo de Monstro^000000
-#
+
 15051#
 Armadura feita de Escama de Bakonawa. Libera um misterioso efeito de luz de luar.
 Diminui danos de monstros do tipo Chefe em 1% a cada 2 refinamentos.

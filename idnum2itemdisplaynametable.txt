@@ -5734,8 +5734,15 @@
 21059#Caixa de Galhos Sangrentos Supremo#
 21060#Caixa de Premiação PvP#
 21061#Ticket de Acesso SmartRO#
+21062#Martelo de Conserto#
+21063#Caixa de Encantamentos#
 21064#Pack_Iniciante#
 21065#Caixa_de_Enriquecidos_Avançados#
+21066#Moeda_dos_Desejos#
+21067#Poringdrasil#
+21068#Caixa de Poringdrasil 100un.#
+21069#Sacola de Cash#
+21070#Caixa de Martelo de Conserto#
 //=======================================================
 // SEASON II - Custons Novos
 //=======================================================
@@ -5750,55 +5757,55 @@
 22008#Circulo_de_Defesa#
 22009#Aura_Flamejante#
 22010#Aurora#
-22011#Espírito_da_Chama_Azul#
+22011#[Visual]_Espírito_da_Chama_Azul#
 22012#Bolsa_Natalina#
 //=======================================================
 // sEASON II - Bonecas SmartRO
 //=======================================================
-22013#Boneca_da_Loli_Ruri#
-22014#Boneca_de_Fada#
-22015#Boneca_da_Aria#
-22016#Boneca_da_Barbeira_Demoniaca#
-22017#Boneca_da_Bruxinha#
-22018#Boneca_da_Clara#
-22019#Boneca_Médica#
-22020#Boneca_da_Princesa_Loira#
-22021#Boneca_da_Sandra#
-22022#Boneca_de_Alquimista#
-22023#Boneco_da_Flor_do_Luar#
-22024#Boneco_da_Maya#
-22025#Boneco_da_Valquíria#
-22026#Boneco_de_Bafomé#
-22027#Boneco_de_Deviruchi#
-22028#Boneco_de_Eddga#
-22029#Boneco_de_Garoto_Loiro#
-22030#Boneco_de_Kafra_com_Coelho#
-22031#Boneco_de_Loli_Kitty#
-22032#Boneco_de_Marin#
-22033#Boneco_de_Metaling#
-22034#Boneco_de_Mokona#
-22035#Boneco_de_Poporing#
-22036#Boneco_de_Príncipe#
-22037#Boneco_de_Poring_Noel#
-22038#Boneco_de_Zealotus#
-22039#Boneco_do_Angeling#
-22040#Boneco_do_ArchAngeling#
-22041#Boneco_do_Deviling#
-22042#Boneco_do_Freeoni#
-22043#Boneco_do_Drake#
-22044#Boneco_do_Randgris#
-22045#Boneco_do_Tony#
-22046#Boneco_do_Xack#
-22047#Boneco_do_Yoshi#
-22048#Bonecos_do_Enforcamento#
+22013#[Visual]_Boneca_da_Loli_Ruri#
+22014#[Visual]_Boneca_de_Fada#
+22015#[Visual]_Boneca_da_Aria#
+22016#[Visual]_Boneca_da_Barbeira_Demoniaca#
+22017#[Visual]_Boneca_da_Bruxinha#
+22018#[Visual]_Boneca_da_Clara#
+22019#[Visual]_Boneca_Médica#
+22020#[Visual]_Boneca_da_Princesa_Loira#
+22021#[Visual]_Boneca_da_Sandra#
+22022#[Visual]_Boneca_de_Alquimista#
+22023#[Visual]_Boneco_da_Flor_do_Luar#
+22024#[Visual]_Boneco_da_Maya#
+22025#[Visual]_Boneco_da_Valquíria#
+22026#[Visual]_Boneco_de_Bafomé#
+22027#[Visual]_Boneco_de_Deviruchi#
+22028#[Visual]_Boneco_de_Eddga#
+22029#[Visual]_Boneco_de_Garoto_Loiro#
+22030#[Visual]_Boneco_de_Kafra_com_Coelho#
+22031#[Visual]_Boneco_de_Loli_Kitty#
+22032#[Visual]_Boneco_de_Marin#
+22033#[Visual]_Boneco_de_Metaling#
+22034#[Visual]_Boneco_de_Mokona#
+22035#[Visual]_Boneco_de_Poporing#
+22036#[Visual]_Boneco_de_Príncipe#
+22037#[Visual]_Boneco_de_Poring_Noel#
+22038#[Visual]_Boneco_de_Zealotus#
+22039#[Visual]_Boneco_do_Angeling#
+22040#[Visual]_Boneco_do_ArchAngeling#
+22041#[Visual]_Boneco_do_Deviling#
+22042#[Visual]_Boneco_do_Freeoni#
+22043#[Visual]_Boneco_do_Drake#
+22044#[Visual]_Boneco_do_Randgris#
+22045#[Visual]_Boneco_do_Tony#
+22046#[Visual]_Boneco_do_Xack#
+22047#[Visual]_Boneco_do_Yoshi#
+22048#[Visual]_Bonecos_do_Enforcamento#
 //=================================================
 // SEASON II - Custons Novos
 //=================================================
 22049#Asas_de_Borboleta#
-22050#Aura_de_Borboletas#
-22051#Cachorro#
-22052#Cachorro_Preto#
-22053#Cachorro_Rosa#
+22050#[Visual]_Aura_de_Borboletas#
+22051#[Visual]_Cachorro#
+22052#[Visual]_Cachorro_Preto#
+22053#[Visual]_Cachorro_Rosa#
 22054#Cavaleiro_de_Fogo#
 22055#Chaos_Death#
 22056#Chaos_Death_Valk#
@@ -5813,35 +5820,35 @@
 22065#Susanoo_Inicial#
 22066#Susanoo_Endo-Madara#
 22067#Asas_de_Demônio#
-22068#Desfarce_Supremo#
+22068#[Visual]_Desfarce_Supremo#
 22069#Asas_do_Diablo#
-22070#Cabelo_do_Inuyasha#
+22070#[Visual]_Cabelo_do_Inuyasha#
 22071#Elmo_do_Senhor_dos_Orcs#
-22072#Espadas_da_Luz#
-22073#Fadinha#
+22072#[Visual]_Espadas_da_Luz#
+22073#[Visual]_Fadinha#
 23021#Asas_da_Fenix#
 23022#Asas_da_Fenix_Negra#
 23023#Aura_Flamejante#
-23024#Foice_Demôniaca#
-23025#Gato#
-23026#Gato_Branco#
-23039#Gato_Rosa#
+23024#[Visual]_Foice_Demôniaca#
+23025#[Visual]_Gato#
+23026#[Visual]_Gato_Branco#
+23039#[Visual]_Gato_Rosa#
 23040#Asas_Mágicas#
 23041#Asas_Dragônicas#
 23045#Chakra_do_Hachibi#
 23046#Espírito_do_Clãn#
 23047#Asas_da_Felicidade#
-23048#Aura_Ignus#
-23049#Capa_Confortável_Branca_e_Rosa#
-23050#Capa_Confortável_Branca_e_Preta#
-23051#Asas_Poderosas#
-23052#Capa_Confortável_Rosa#
-23053#Capa_Confortável_Azul#
-23054#Capa_Confortável_Vermelha#
+23048#[Visual]_Aura_Ignus#
+23049#[Visual]_Capa_Confortável_Branca_e_Rosa#
+23050#[Visual]_Capa_Confortável_Branca_e_Preta#
+23051#[Visual]_Asas_Poderosas#
+23052#[Visual]_Capa_Confortável_Rosa#
+23053#[Visual]_Capa_Confortável_Azul#
+23054#[Visual]_Capa_Confortável_Vermelha#
 23055#Asas_de_Baile#
 23056#Asas_Penosas#
-23057#Capa_Branca#
-23058#Capa_Branca_de_Arruaceiro#
+23057#[Visual]_Capa_Branca#
+23058#[Visual]_Capa_Branca_de_Arruaceiro#
 23059#Asas_da_Escuridão#
 
 
@@ -5878,11 +5885,11 @@
 23028#Asas_Explêndidas#
 23029#Espírito_Dourado_da_Valquíria#
 23030#Espírito_Azul_da_Valquíria#
-23031#Foice_do_Hidan#
+23031#[Visual]_Foice_do_Hidan#
 23033#Espírito do Samurai Encarnado#
 23035#Asas_Perfeitas#
-23036#Cabelo_de_Nydhog#
-23037#Orbs_de_Magia#
+23036#[Visual]_Cabelo_de_Nydhog#
+23037#[Visual]_Orbs_de_Magia#
 23038#Aura_Negra_Seladora#
 
 
@@ -5996,7 +6003,7 @@
 24076#Elmo_do_Dragão_Roxo#
 
 //=================================================
-24077#Capuz_Místico#
+24077#[Visual]_Capuz_Místico#
 //=================================================
 
 24078#Elmo_do_Dragão_Prateado#
@@ -6124,7 +6131,7 @@
 25008#Orelhas_de_Anjo#
 25009#Asas_Malignas#
 25010#Orelhas_de_Elfo#
-25011#Aura_de_Sayajin#
+25011#[Visual]_Aura_de_Sayajin#
 25012#[Visual]_Headphone_da_Beats_Preto#
 25013#[Visual]_Headphone_da_Beats_Azul#
 25014#[Visual]_Headphone_da_Beats_Verde#
@@ -6172,7 +6179,7 @@
 
 //====================================================================================================
 25048#Balão_Poring#
-25049#Escudo_Smart#
+25049#Medalha de Honra SmartRO#
 //====================================================================================================
 
 25050#Aura_de_Lighthalzen_Verde_Escuro#
@@ -6454,6 +6461,17 @@
 27606#Megingjard_da_Sabedoria#
 27607#Megingjard_da_Precisão#
 27608#Megingjard_da_Vitalidade#
+
+27628#Armadura de Brynhildr (Tão Gunka)#
+27629#Armadura de Brynhildr (Ghostring)#
+27630#Sleipnir (Bispo Decadente)#
+27631#Sleipnir (Egnigem Cenia [Chefe])#
+27632#Megingjard_da_Força (Detardeurus)#
+27633#Megingjard_da_Sorte (Detardeurus)#
+27634#Megingjard_da_Sabedoria (Carta Osiris)#
+27635#Megingjard_da_Precisão (Carta Drake)#
+27636#Megingjard_da_Vitalidade (Carta Ktullanux)#
+
 //========================================================
 // SmartRO - SKINS
 //========================================================
@@ -6586,40 +6604,72 @@
 27027#[PackIniciante]_Amuleto_de_Omni#
 27030#Sapatos Convergentes#
 
+27900#Medalha de Guerra#
+27901#Medalha de Bravura#
+27902#Medalha de Valor#
+
+27920#Punho Supremo de Azura +10%#
+27921#Disparo de Esferas Esperituais +20%#
+27922#Impacto de Tyr +20%#
+27923#Perfurar em Esperial +20%#
+27924#Chuva de Meteoros +20%#
+27925#Nevasca +20%#
+27926#Trovão de Jupter +20%#
+27927#Lanças de Fogo +20%#
+27928#Lanças de Gelo +20%#
+27929#Rajada de Flechas +20%#
+27930#Tiro Preciso +20%#
+27931#Sacrifício de Mártir +20%#
+27932#Luz Divina +20%#
+27933#Lâminas Destruidoras +20%#
+27934#Tocaia +20%#
+27935#Choque de Carrinho +20%#
+27936#Ataque Mortal +20%#
+27937#Rajada Certeira +20%#
+27938#Desperado +20%#
+27939#Vulcão de Flechas +20%#
+
+4895#Punho Supremo de Azura +10%#
+4896#Disparo de Esferas Esperituais +20%#
+4897#Impacto de Tyr +20%#
+4898#Perfurar em Esperial +20%#
+4899#Chuva de Meteoros +20%#
+4900#Nevasca +20%#
+4901#Trovão de Jupter +20%#
+4902#Lanças de Fogo +20%#
+4903#Lanças de Gelo +20%#
+4904#Rajada de Flechas +20%#
+4905#Tiro Preciso +20%#
+4906#Sacrifício de Mártir +20%#
+4907#Luz Divina +20%#
+4908#Lâminas Destruidoras +20%#
+4909#Tocaia +20%#
+4910#Choque de Carrinho +20%#
+4911#Ataque Mortal +20%#
+4912#Rajada Certeira +20%#
+4913#Desperado +20%#
+4914#Vulcão de Flechas +20%#
+
 //Smart-Ro Custom Ygg Pets
-9057#Ovo_de_Blazing_Imp#
-9058#Ovo_de_abyss_boss#
-9059#Ovo_de_almaosce#
-9060#Ovo_de_Blue_Insectivore_Slime#
-9061#Ovo_de_Yellow_Insectivore_Slime#
-9062#Ovo_de_Butterfly_Wings#
-9063#Ovo_de_cd#
-9064#Ovo_de_Doram#
-9065#Ovo_de_EmissionBat#
-9066#Ovo_de_Eye_of_Time#
-9067#Ovo_de_fahrros#
-9068#Ovo_de_Flying_Mote#
-9069#Ovo_de_Frozen_Rose#
-9070#Ovo_de_HARMOR#
-9071#Ovo_de_HAZ_SPPO#
-9072#Ovo_de_LIGHTNINGGUARD#
-9073#Ovo_de_mano#
-9074#Ovo_de_MKN_WTRAININGD#
-9075#Ovo_de_Mote#
-9076#Ovo_de_Nightmare_Golem#
-9077#Ovo_de_Nightmare_Mushroom#
-9078#Ovo_de_Papercraft_Horror#
-9079#Ovo_de_plantsoul#
-9080#Ovo_de_PriestMummy#
-9081#Ovo_de_Puppet#
-9082#Ovo_de_Raven1#
-9083#Ovo_de_Red_Headphones#
-9084#Ovo_de_Yellow_Headphones#
-9085#Ovo_de_Sign_Ghost#
-9086#Ovo_de_Stoplight_Ghost#
-9087#Ovo_de_Tantalus#
-9088#Ovo_de_treesoul#
-9089#Ovo_de_thanat2#
+9057#Ovo_do_Alvo#
+9058#Ovo_do_Addax#
+9059#Ovo_do_Emissionbat#
+9060#Ovo_do_Fantasma_Azul#
+9061#Ovo_do_Livro_das_Trevas#
+9062#Ovo_do_Jadira#
+9063#Ovo_do_Fire_Moth#
+9064#Ovo_do_Ampulheta#
+9065#Ovo_do_Tronco_Tentalus#
+9066#Ovo_do_Imp_Diabolico#
+9067#Ovo_do_Myconid#
+9068#Ovo_do_Garraz#
+9069#Ovo_do_Soldado_Imortal#
+9070#Ovo_do_Doram#
+9071#Ovo_do_Escuridao_Mote#
+9072#Ovo_do_Escuridao_Mote_Voador#
+9073#Ovo_do_Borboleta_Elemental#
+9074#Ovo_do_Fantasma_Maiden#
+
 
 // =========== SMARTRO CARTAS CUSTOM ===================== //
 //Cartas LHZ04 Mvp's
@@ -6645,7 +6695,10 @@
 28002#CM#
 28003#EM#
 28004#290#
-28005#Licença de Mercado#
+28005#Anúncio de Autotrade#
+
+28500#Arco da Terra Supremo#
+28501#Bazerald Elemental#
 
 
 //file end

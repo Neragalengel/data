@@ -680,6 +680,27 @@
 4892#(PesoMax+2000&ATQM+3%)#
 4893#(PesoMax+2000&DEF+3%)#
 4894#(PesoMax+2000&HP/SP+5%)#
+4895#(Punho Supremo de Azura +10%)#
+4896#(Disparo de Esferas Esperituais +20%)#
+4897#(Impacto de Tyr +20%)#
+4898#(Perfurar em Esperial +20%)#
+4899#(Chuva de Meteoros +20%)#
+4900#(Nevasca +20%)#
+4901#(Trovão de Jupter +20%)#
+4902#(Lanças de Fogo +20%)#
+4903#(Lanças de Gelo +20%)#
+4904#(Rajada de Flechas +20%)#
+4905#(Tiro Preciso +20%)#
+4906#(Sacrifício de Mártir +20%)#
+4907#(Luz Divina +20%)#
+4908#(Lâminas Destruidoras +20%)#
+4909#(Tocaia +20%)#
+4910#(Choque de Carrinho +20%)#
+4911#(Ataque Mortal +20%)#
+4912#(Rajada Certeira +20%)#
+4913#(Desperado +20%)#
+4914#(Vulcão de Flechas +20%)#
+
 //=================================
 // Cartas Custons SmartRO
 //=================================

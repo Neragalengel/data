@@ -2414,6 +2414,14 @@ JobNameTable = {
 	[3173] = "HAZ_CHEST_RED",
 	[3174] = "HAZ_CHEST_WHT",
 	[3175] = "HAZ_CHEST_YLW",
+	--SEASON II - Custom Mobs
+	[3176] = "blue_unicorn",
+	[3177] = "cenere_g",
+	[3178] = "exploration_rover_t",
+	[3179] = "mm_sarah",
+	[3180] = "repair_robot_t",
+	[3181] = "scr_mt_robots",
+	[3182] = "MKN_AINS",
 	-- SEASON II - PORINGS SMARTRO -- 
 	[3300] = "AQUARING",
 	[3301] = "BLACKNEKORING",

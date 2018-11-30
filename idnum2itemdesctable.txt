@@ -19567,13 +19567,7 @@ Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
-4357#
-Carta Lorde Seyren.
-Permite o uso de Frenesi. Reduz o HP máximo em 50%.
-Tipo de Item: ^777777Carta^000000
-Equipado em: ^777777Equipamento para a cabeça^000000
-Peso: ^7777771^000000
-#
+
 4358#
 Carta Seyren Windsor.
 FOR -5. Adiciona uma FOR igual ao nível de aprimoramento do capacete.
@@ -19581,13 +19575,7 @@ Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
 #
-4359#
-Carta Algoz Eremes.
-Permite o uso de Furtividade nv. 3.
-Tipo de Item: ^777777Carta^000000
-Combina com: ^777777Capa^000000
-Peso: ^7777771^000000
-#
+
 4360#
 Carta Eremes Guile.
 LUK -5. Adiciona uma LUK igual ao nível de aprimoramento do capacete.
@@ -19596,13 +19584,7 @@ Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
 #
-4361#
-Carta Mestre-ferreiro Howard.
-10% de chance de destruir a arma do inimigo e 7% de chance de destruir sua armadura a cada vez que o usuário atacar fisicamente.
-Tipo de Item: ^777777Carta^000000
-Equipado em: ^777777Arma^000000
-Peso: ^7777771^000000
-#
+
 4362#
 Carta Howard Alt-Eisen.
 AGI -5. Adiciona uma AGI igual ao nível de aprimoramento do capacete.
@@ -19610,13 +19592,7 @@ Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
 #
-4363#
-Sumo Sacerdotisa Margaretha.
-HP +100.000
-Tipo de Item: ^777777Carta^000000
-Equipado em: ^777777Armadura^000000
-Peso: ^7777771^000000
-#
+
 4364#
 Carta Margaretha Sorin.
 VIT -5. Adiciona uma VIT igual ao nível de aprimoramento do capacete.
@@ -19624,14 +19600,7 @@ Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
 #
-4365#
-Carta Arquimaga Kathryne.
-Aumenta o tempo de conjuração variável em 100%, e reduz a recuperação de SP em 100%, mas os ataques do usuário ignoram a DEFM de monstros normais. 
-Drena 2.000 SP quando o capacete equipado é retirado.
-Tipo de Item: ^777777Carta^000000
-Equipado em: ^777777Equipamento para a cabeça^000000
-Peso: ^7777771^000000
-#
+
 4366#
 Carta Kathryne Keyron.
 INT -5. Adiciona uma INT igual ao nível de aprimoramento do capacete.
@@ -19639,13 +19608,7 @@ Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
 #
-4367#
-Carta Atiradora de Elite Cecil.
-25% a mais de dano a distância, chance de causar sangramento e silência.
-Tipo de Item: ^777777Carta^000000
-Equipado em: ^777777Arma^000000
-Peso: ^7777771^000000
-#
+
 4368#
 Carta Cecil Damon.
 DEX -5. Adiciona uma DEX igual ao nível de aprimoramento do capacete.
@@ -19945,7 +19908,7 @@ Peso: ^7777771^000000
 #
 4403#
 Carta Kiel-D-01.
-^0000FFReduz o Atraso de Conjuração de todas as habilidades em 25%.^000000
+^0000FFReduz o Atraso de Conjuração de todas as habilidades em 20%.^000000
 Tipo de Item: ^777777Carta^000000
 Equipado em: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
@@ -43751,6 +43714,42 @@ Caixa que contém 3 ^0000FFBradium^000000 perfeito e 3 ^0000FFCarnium^000000 perf
 
 Peso : ^77777710^000000
 #
+
+21066#
+[ ^008000Moeda SmartRO^000000 ]
+^0000FFMoeda para desejos.^000000
+
+Peso : ^77777710^000000
+#
+
+21068#
+[ ^008000Caixa SmartRO^000000 ]
+^0000FFUma caixa que guarda 100 Poringdrasil dentro dela.^000000
+
+Peso : ^77777710^000000
+#
+
+21067#
+[ ^008000Poringdrasil SmartRO^000000 ]
+^0000FFRecupera completamente o HP e o SP^000000.
+^ffffff_^000000
+Peso: ^77777710^000000
+#
+
+21069#
+[ ^008000Sacola SmartRO^000000 ]
+^0000FFPrêmio: de 1p a 3p de cash.^000000
+
+Peso : ^77777710^000000
+#
+
+21070#
+[ ^008000Caixa SmartRO^000000 ]
+Caixa que contém 100 ^0000FFMartelo de Conserto^000000.
+Peso : ^77777710^000000
+#
+
+
 //===========================================================
 // SmartRO - Equipamentos Para a Cabeça [TOPO]
 //===========================================================
@@ -44588,6 +44587,8 @@ Classes que utilizam: ^777777Todas as classes^000000
 ^0000FFVIT +10.^000000
 ^0000FFDEX +5.^000000
 ^0000FFMáx HP/SP +10%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Centro^000000
@@ -44601,6 +44602,8 @@ Classes que utilizam: ^777777Todas^000000
 ^0000FFVIT +15.^000000
 ^0000FFDEX +5.^000000
 ^0000FFMáx HP/SP +10%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Centro^000000
@@ -44614,6 +44617,8 @@ Classes que utilizam: ^777777Ninja^000000
 ^0000FFVIT +10.^000000
 ^0000FFAGI +10.^000000
 ^0000FFMáx HP/SP +10%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Centro^000000
@@ -44627,6 +44632,8 @@ Classes que utilizam: ^777777Todas^000000
 ^0000FFLUK +10.^000000
 ^0000FFDEX +5.^000000
 ^0000FFMáx HP/SP +10%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Centro^000000
@@ -44640,6 +44647,8 @@ Classes que utilizam: ^777777Paladino^000000
 ^0000FFAGI +10.^000000
 ^0000FFVIT +5.^000000
 ^0000FFMáx HP/SP +10%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe:^777777 Equipamento para Cabeça^000000
 Defesa :^777777 1^000000
 Equipa em:^777777 Centro^000000
@@ -44654,6 +44663,7 @@ Profissões que utilizam:^777777 Todas^000000
 ^0000FFDEX +10.^000000
 ^0000FFAGI +5.^000000
 ^0000FFMáx HP/SP +5%.^000000
+
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
 Equipa em: ^777777Centro^000000
@@ -44698,6 +44708,8 @@ Classes que utilizam: ^777777Todas^000000
 ^0000FFFOR +10.^000000
 ^0000FFAGI +5.^000000
 ^0000FFMáx HP/SP +10%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
 Equipa em: ^777777Centro^000000
@@ -44808,6 +44820,23 @@ Nível necessário: ^77777770^000000
 Classes que utilizam: ^777777Todas as classes^000000
 #
 
+
+25024#
+[ ^008000Custom SmartRO^000000 ]
+^0000FFTodos Status +8.^000000
+^0000FFAumenta o dano dado em monstros da raça Humanoide em 12%.^000000
+^0000FFMáx HP/SP +5%.^000000
+^0000FFTaxa de Precisão +200^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
+Classe: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777773^000000
+Equipa em: ^777777Centro^000000
+Peso: ^77777710^000000
+Nível necessário: ^77777770^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
 25053#
 [ ^008000Custom SmartRO^000000 ]
 ^a60536Item exclusivo do SmartRO apenas para visual.^000000
@@ -44871,6 +44900,8 @@ Classes : ^777777Todas^000000
 ^0000FFAumenta o dano dado em monstros da raça Humanoide em 12%.^000000
 ^0000FFMáx HP/SP +5%.^000000
 ^0000FFPermite ao usuário detectar monstros escondidos.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
 Equipa em: ^777777Centro^000000
@@ -44885,6 +44916,8 @@ Classes que utilizam: ^777777Todas^000000
 ^0000FFConcede 12% de resistência a monstros da raça Humanóide.^000000
 ^0000FFMáx HP/SP +5%.^000000
 ^0000FFFaz com que danos físicos de alvo único sejam refletidos ao atacante (10% de chance).^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
 Equipa em: ^777777Centro^000000
@@ -44899,6 +44932,8 @@ Classes que utilizam: ^777777Todas^000000
 ^0000FFConcede 12% de resistência a monstros da raça Humanóide.^000000
 ^0000FFMáx HP/SP +5%.^000000
 ^0000FFFaz com que danos mágicos de magias de alvo único sejam refletidos ao atacante (10% de chance).^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
 Equipa em: ^777777Centro^000000
@@ -45295,6 +45330,8 @@ Classes que utilizam: ^777777Todas as classes^000000
 ^0000FFTodos os atributos +5^000000
 [ ^FF0000Quando equipado com Chifres e Asas do Diabinho ^000000 ]
 ^0000FF50% a mais de velocidade de locomoção.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777776^000000
 Equipa em: ^777777Topo^000000
@@ -45351,6 +45388,8 @@ Profissões que utilizam: ^777777Todas as classes^000000
 ^0000FFAGI +10.^000000
 ^0000FFVIT +5.^000000
 ^0000FFMáx HP/SP +15%.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe:^777777 Equipamento para Cabeça^000000
 Defesa :^777777 1^000000
 Equipa em:^777777 Centro^000000
@@ -45365,6 +45404,8 @@ Profissões que utilizam:^777777 Gunslinger^000000
 ^0000FFAumenta o dano mágico em monstros da raça humanóide em 12%.^000000
 ^0000FFMáx HP/SP +10%.^000000
 ^0000FFIgnora o uso de gemas.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe:^777777 Equipamento para Cabeça^000000
 Defesa :^777777 0^000000
 Equipa em:^777777 Centro^000000
@@ -45391,6 +45432,8 @@ Classes que utilizam: ^777777Todas as classes^000000
 [ ^008000Custom SmartRO^000000 ]
 ^0000FFMáx HP/SP +5%.^000000
 ^0000FFReduz em 5% o dano recebido por monstros da raça humanoide.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
 Classe: ^777777Equipamento para Cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
@@ -46239,6 +46282,131 @@ Peso: ^77777730^000000
 Peso: ^77777730^000000
 #
 
+27628#
+[ ^008000Custom SmartRO^000000 ]
+Brynhildr é uma das valentes valquírias. O nome significa 'A Armadura do Guerreiro'.
+^0000FFEfeito da Carta Tão Gunka^000000
+^0000FFHP +70.000,00.^000000
+^0000FFConcede imunidade ao congelamento.^000000
+Não permite que o usuário seja empurrado para trás em batalhas.
+Tipo: ^777777Vestimenta^000000
+Defesa: ^777777120^000000
+Peso: ^77777740^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27629#
+[ ^008000Custom SmartRO^000000 ]
+Brynhildr é uma das valentes valquírias. O nome significa 'A Armadura do Guerreiro'.
+^0000FFEfeito da Carta Ghostring^000000
+^0000FFHP +70.000,00.^000000
+^0000FFConcede imunidade ao congelamento.^000000
+Não permite que o usuário seja empurrado para trás em batalhas.
+Tipo: ^777777Vestimenta^000000
+Defesa: ^777777120^000000
+Peso: ^77777740^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27630#
+[ ^008000Custom SmartRO^000000 ]
+Botas lendárias que têm o nome do cavalo de Odin.
+^0000FFEfeito da Carta Bispo Decadente^000000
+^0000FFMáx HP/SP +25%.^000000
+^0000FFRecuperação de SP +15%.^000000
+^0000ffAlta velocidade de locomoção permanente.^000000
+Classe: ^777777Calçado^000000
+Defesa: ^77777740^000000
+Peso: ^777777350^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27631#
+[ ^008000Custom SmartRO^000000 ]
+Botas lendárias que têm o nome do cavalo de Odin.
+^0000FFEfeito da Carta Egnigem Cenia [Chefe]^000000
+^0000FFMáx HP/SP +25%.^000000
+^0000FFRecuperação de SP +15%.^000000
+^0000ffAlta velocidade de locomoção permanente.^000000
+Classe: ^777777Calçado^000000
+Defesa: ^77777740^000000
+Peso: ^777777350^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27632#
+[ ^008000Custom SmartRO^000000 ]
+Cinto lendário de Thor, o Deus do Trovão.
+^0000FFEfeito da Carta Detardeurus^000000
+^0000FFFOR +15.^000000
+^0000FF5% a mais de dano em humanos.^000000
+Classe: ^777777Acessório^000000
+Defesa: ^7777772^000000
+Peso: ^777777800^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+
+27633#
+[ ^008000Custom SmartRO^000000 ]
+Cinto lendário de Thor, o Deus do Trovão.
+^0000FFEfeito da Carta Detardeurus^000000
+^0000FFLUK +15.^000000
+^0000FFCrítico +35.^000000
+^0000FF5% a mais de dano em humanos.^000000
+Classe: ^777777Acessório^000000
+Defesa: ^7777772^000000
+Peso: ^777777800^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27634#
+[ ^008000Custom SmartRO^000000 ]
+Cinto lendário de Thor, o Deus do Trovão.
+^0000FFEfeito da Carta Osiris^000000
+^0000FFINT +15.^000000
+^0000FF5% a mais de dano mágico em humanos.^000000
+Classe: ^777777Acessório^000000
+Defesa: ^7777772^000000
+Peso: ^777777800^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27635#
+[ ^008000Custom SmartRO^000000 ]
+Cinto lendário de Thor, o Deus do Trovão.
+^0000FFEfeito da Carta Drake^000000
+^0000FFDEX +20.^000000
+^0000FFPrecisão +35.^000000
+^0000FF5% a mais de dano em humanos.^000000
+Classe: ^777777Acessório^000000
+Defesa: ^7777772^000000
+Peso: ^777777800^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+27636#
+[ ^008000Custom SmartRO^000000 ]
+Cinto lendário de Thor, o Deus do Trovão.
+^0000FFEfeito da Carta Ktullanux^000000
+^0000FFVIT +15.^000000
+^0000FFHP/sP +5%^000000
+Classe: ^777777Acessório^000000
+Defesa: ^7777772^000000
+Peso: ^777777800^000000
+Nível necessário: ^77777794^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+
 //===========================================================
 // SmartRO - Armas
 //===========================================================
@@ -46247,6 +46415,8 @@ Peso: ^77777730^000000
 ^0000FF15% a mais de dano com a habilidade Impacto de Tyr.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053615% a mais de dano com a habilidade Impacto de Tyr.^000000
 Classe: ^777777Espada^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46260,6 +46430,8 @@ Classes que utilizam: ^777777Lord Knight^000000
 ^0000FF8% a mais de dano em humanóides.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a605368% a mais de dano em humanóides.^000000
 Classe: ^777777Punho^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46270,13 +46442,11 @@ Classes que utilizam: ^777777Champion^000000
 
 1655#
 [ ^008000Custom SmartRO^000000 ]
-^0000FFATQM +20%.^000000
-^0000FFINT +5.^000000
-^0000FFDEX +5.^000000
-^0000FFAumenta em 15% o dano mágico causado a Humanoides.^000000
-^0000FFA cada ataque mágico, o usuário terá 5% de chance de causar Atordoamento no inimigo.^000000
+^0000FF15% a mais de dano mágico em humanoides^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053615% a mais de dano mágico em humanoides^000000
 Classe: ^777777Cajado^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46298,14 +46468,13 @@ Classes que utilizam: ^777777Super Aprendiz^000000
 
 1700#
 [ ^008000Custom SmartRO^000000 ]
-^0000FFAumenta a Força de Ataque Físico contra monstros Humanoides em 55%.^000000
-^0000FFIgnora 20% da defesa física de monstros Humanoides.^000000
-^0000FFAumenta o Dano Crítico de acordo com o nível de refinamento.^000000
-[ ^FF0000+6 de Refinamento^000000 ]
-^a605365% de bônus para ignorar Defesa de monstro Humanóide.^000000
-[ ^FF0000+9 de Refinamento^000000 ]
-^a60536Aumento de 20% no dano de Rajada de Flechas.^000000
-^a60536Aumento de 12% no dano de Tiro Preciso.^000000
+^0000FFAumento de 20% no dano de Rajada de Flechas.^000000
+^0000FFAumento de 20% no dano de Tiro Preciso.^000000
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a60536Aumento de 15% no dano de Rajada de Flechas.^000000
+^a60536Aumento de 15% no dano de Tiro Preciso.^000000
 Tipo: ^777777Arco^000000
 Ataque: ^777777300^000000
 Peso: ^777777100^000000
@@ -46319,6 +46488,8 @@ Classes que utilizam:  ^777777Arqueiro, Gatuno e Arruaceiro^000000
 ^0000FF12% a mais de dano com a habilidade Sacríficio de Mártir.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053612% a mais de dano com a habilidade Sacríficio de Mártir.^000000
 Tipo: ^777777Lança^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46333,6 +46504,9 @@ Classes que utilizam: ^777777Paladino^000000
 ^0000FF5% a mais de dano mágico.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053620% a mais de dano com a habilidade Luz Divina.^000000
+^a605365% a mais de dano mágico.^000000
 Tipo: ^777777Cajado^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46347,6 +46521,9 @@ Classes que utilizam: ^777777High Priest^000000
 ^0000FF3% a mais de dano em humanóides.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +5.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a60536Inflige 20% a mais de dano com Ataque Crítico.^000000
+^a605363% a mais de dano em humanóides.^000000
 Classe: ^777777Espada^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46360,6 +46537,8 @@ Classes que utilizam: ^777777Assassin Cross^000000
 ^0000FF15% a mais de dano com a habilidade Bomba Ácida.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053615% a mais de dano com a habilidade Bomba Ácida.^000000
 Classe: ^777777Machado^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46373,6 +46552,8 @@ Classes que utilizam: ^777777Criador^000000
 ^0000FF18% a mais de dano com a habilidade Choque de Carrinho.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053618% a mais de dano com a habilidade Choque de Carrinho.^000000
 Classe: ^777777Machado^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777300^000000
@@ -46388,6 +46569,10 @@ Classes que utilizam: ^777777Whitesmith^000000
 ^0000FFAumenta em 10% o dano mágico causado a Humanoides.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +5.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a605364% a mais de dano em humanóides.^000000
+[ ^FF0000Se estiver equipado em Stalker^000000 ]
+^a60536Aumenta em 10% o dano mágico causado a Humanoides.^000000
 Classe: ^777777Adaga^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46398,19 +46583,17 @@ Classes que utilizam: ^777777Assassin Cross e Stalker^000000
 
 13310#
 [ ^008000Custom SmartRO^000000 ]
-^0000FFATQM +20%.^000000
-^0000FFINT +5.^000000
-^0000FFDEX +5.^000000
-^0000FFAumenta em 15% o dano mágico causado a Humanoides.^000000
-^0000FFA cada ataque mágico, o usuário terá 5% de chance de causar Atordoamento no inimigo.^000000
+^0000FF15% a mais de dano mágico em humanoides^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
-Classe: ^777777Shuriken^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053615% a mais de dano mágico em humanoides^000000
+Classe: ^777777Cajado^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
 Nível da arma: ^7777773^000000
 Nível necessário: ^7777771^000000
-Classes que utilizam: ^777777Ninja^000000
+Classes que utilizam: ^777777Professor, High Wizard e Soul Linker^000000
 #
 
 13114#
@@ -46419,6 +46602,7 @@ Classes que utilizam: ^777777Ninja^000000
 ^0000FF10% a mais de dano com a habilidade Desperado.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
 Classe: ^777777Pistola^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46432,6 +46616,7 @@ Classes que utilizam: ^777777Gunslinger^000000
 ^0000FF18% a mais de dano em humanóides.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
 Classe: ^777777Luva^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46445,6 +46630,7 @@ Classes que utilizam: ^777777Taekwon e Mestre Taekwon^000000
 ^0000FF25% a mais de dano com a habilidade Vulcão de Flechas.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
 Classe: ^777777Guitarra^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46458,6 +46644,7 @@ Classes que utilizam: ^777777Menestrel^000000
 ^0000FF25% a mais de dano com a habilidade Vulcão de Flechas.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
 Classe: ^777777Chicote^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46473,6 +46660,7 @@ Classes que utilizam: ^777777Gypsi^000000
 ^0000FF8% a mais de dano em humanóides.^000000
 [ ^FF0000+10 de Refinamento^000000 ]
 ^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
 Classe: ^777777Katar^000000
 Força de Ataque: ^777777150^000000
 Peso: ^777777100^000000
@@ -46922,24 +47110,44 @@ Classes que utilizam: ^777777Todas^000000
 
 23042#
 [ ^008000Custom SmartRO^000000 ]
-Esse elmo carrega em si mais de mil almas de diversos mvps.
 ^0000FFTodos os Atributos +10.^000000
 [ ^FF0000Quando equipado com Asa e Aura do Dragão Negro^000000 ]
 ^0000FFAumenta o dano em MVPs em +30%.^000000
 ^0000FFReduz o dano recebido de MVPs em +30%.^000000
 ^0000FFTodos os atributos +15.^000000
+Classe: ^777777Equipamento para Cabeça^000000
+Defesa: ^7777770^000000
+Equipa em: ^777777Cima^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Profissões que utilizam: ^777777Todas as classes^000000
 #
+
 23043#
 [ ^008000Custom SmartRO^000000 ]
-Essa asa carrega em si mais de mil almas de diversos mvps.
 ^0000FFTodos os Atributos +3.^000000
 ^0000FFVelocidade de movimento +30%.^000000
+[ ^FF0000Quando equipado com Asa e Aura do Dragão Negro^000000 ]
+^0000FFImunidudade a Congelar.^000000
+Classe: ^777777Equipamento para Cabeça^000000
+Defesa: ^7777770^000000
+Equipa em: ^777777Meio^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Profissões que utilizam: ^777777Todas as classes^000000
+
 #
 23044#
 [ ^008000Custom SmartRO^000000 ]
-Essa aura carrega em si mais de mil almas de diversos mvps.
 ^0000FFTodos os Atributos -10.^000000
 ^0000FFImunidade a Petrificar.^000000
+Classe: ^777777Equipamento para Cabeça^000000
+Defesa: ^7777770^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Profissões que utilizam: ^777777Todas as classes^000000
+
 #
 
 24067#
@@ -47003,7 +47211,7 @@ Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^77777710^000000
-Classes que utilizam: ^777777Todas^000000
+Classes que utilizam: ^777777Todas, exceto bardo/odalisca^000000
 #
 
 26059#
@@ -47047,9 +47255,10 @@ Peso: ^7777771^000000
 Carta Satan Morroc.
 ^0000FFImunidade a petrificar^000000
 ^0000FFTorna o usuário imune a Coma^000000
+^0000FFMáx HP/SP +10%^000000
 ^FFA500Não imuniza ao coma da habilidade Destino das Cartas^000000
 Tipo de Item: ^777777Carta^000000
-Equipado em: ^777777Equipamento para Escudo^000000
+Equipado em: ^777777Sapatos^000000
 Peso: ^7777771^000000
 #
 
@@ -47369,6 +47578,17 @@ Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^77777710^000000
 Classes que utilizam: ^777777Todas as classes^000000
+#
+
+25049#
+[ ^008000Custom SmartRO^000000 ]
+^a60536Medalha de Honra ao Top PvP!!!^000000
+
+Tipo: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777776^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777780^000000
+Classes que utilizam: ^777777Todas^000000
 #
 
 22000#
@@ -49214,6 +49434,43 @@ Peso: ^77777720^000000
 Peso: ^77777720^000000
 #
 
+21062#
+[ ^008000Custom SmartRO^000000 ]
+^FF0000Martelo para a classe dos ferreiros, usado para refinar.^000000
+^FFFFFF ^000000
+Peso: ^77777720^000000
+#
+
+21063#
+[ ^008000Baú SmartRO^000000 ]
+Caixa com os Encantamentos mais raros.
+Chance de vir encantamentos aleatórios tais como:
+[^ff0000»^000000] Punho Supremo de Azura +10%;
+[^ff0000»^000000] Bomba Ácida +20%;
+[^ff0000»^000000] Disparo de Esferas Esperituais +20%;
+[^ff0000»^000000] Impacto de Tyr +20%;
+[^ff0000»^000000] Perfurar em Esperial +20%;
+[^ff0000»^000000] Chuva de Meteoros +20%;
+[^ff0000»^000000] Nevasca +20%;
+[^ff0000»^000000] Trovão de Jupter +20%;
+[^ff0000»^000000] Lanças de Fogo +20%;
+[^ff0000»^000000] Lanças de Gelo +20%;
+[^ff0000»^000000] Rajada de Flechas +20%;
+[^ff0000»^000000] Tiro Preciso +20%;
+[^ff0000»^000000] Sacrifício de Mártir +20%;
+[^ff0000»^000000] Luz Divina +20%;
+[^ff0000»^000000] Lâminas Destruidoras +20%;
+[^ff0000»^000000] Tocaia +20%;
+[^ff0000»^000000] Choque de Carrinho +20%;
+[^ff0000»^000000] Ataque Mortal +20%;
+[^ff0000»^000000] Rajada Certeira +20%;
+[^ff0000»^000000] Desperado +20%;
+[^ff0000»^000000] Vulcão de Flechas +20%;
+
+Peso:^777777 1^000000
+#
+
+
 27030#
 [ ^008000Custom SmartRO^000000 ]
 Sapatos que antes estavam errados e agora foram consertados. Ainda há algo de estranho neles...
@@ -49230,202 +49487,552 @@ Nível necessário: ^77777785^000000
 Classes que utilizam: ^777777Todas^000000
 #
 
+27900#
+[ ^008000Custom SmartRO^000000 ]
+^0000FFCada jogador que você matar na batalha campal você receberá 1 Emblema de Guerra.^000000
+^0000ffRecebe 5% a menos de dano de Ataques Físicos a Distância.^00000
+^0000FFHP/SP+ 5%^000000
+
+Tipo: ^777777Acessório^000000
+Defesa: ^7777772^000000 
+Peso: ^77777710^000000
+Nível necessário: ^77777790^000000
+Profissões que utilizam: ^777777Todas as Classes^000000
+#
+
+27901#
+[ ^008000Custom SmartRO^000000 ]
+^0000FFCada jogador que você matar na batalha campal você receberá 1 Emblema de Bravura.^000000
+^0000ffRecebe 5% a menos de dano de Ataques Físicos a Distância.^00000
+^0000FFHP/SP+ 5%^000000
+
+Tipo: ^777777Acessório^000000
+Defesa: ^7777772^000000 
+Peso: ^77777710^000000
+Nível necessário: ^77777790^000000
+Profissões que utilizam: ^777777Todas as Classes^000000
+#
+
+27902#
+[ ^008000Custom SmartRO^000000 ]
+^0000FFCada jogador que você matar na batalha campal você receberá 1 Emblema de Valor.^000000
+^0000ffRecebe 5% a menos de dano de Ataques Físicos a Distância.^00000
+^0000FFHP/SP+ 5%^000000
+
+Tipo: ^777777Acessório^000000
+Defesa: ^7777772^000000 
+Peso: ^77777710^000000
+Nível necessário: ^77777790^000000
+Profissões que utilizam: ^777777Todas as Classes^000000
+#
+
+//enchnatsnew
+27920#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF10%+ de dano com a habilidade Punho Supremo de Azura^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27921#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF10%+ de dano com a habilidade Disparo de Esferas Esperituais^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27922#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Impacto de Tyr^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27923#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Perfurar em Esperial^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27924#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Chuva de Meteoros^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27925#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Nevasca^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27926#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Chuva de Trovão de Jupter^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27927#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Lanças de Fogo^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27928#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Lanças de Gelo^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27929#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Rajada de Flechas^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27930#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Tiro Preciso^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27931#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Sacrifício de Mártir^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27932#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Luz Divina^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27933#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Lâminas Destruidoras^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27934#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Tocaia^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27935#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Choque de Carrinho^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27936#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Ataque Mortal^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27937#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Rajada Certeira^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27938#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Desperado^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+27939#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Vulcão de Flechas^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+
+//enchnatsnew
+4895#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF10%+ de dano com a habilidade Punho Supremo de Azura^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4896#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF10%+ de dano com a habilidade Disparo de Esferas Esperituais^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4897#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Impacto de Tyr^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4898#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Perfurar em Esperial^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4899#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Chuva de Meteoros^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4900#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Nevasca^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4901#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Chuva de Trovão de Jupter^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4902#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Lanças de Fogo^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4903#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Lanças de Gelo^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4904#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Rajada de Flechas^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4905#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Tiro Preciso^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4906#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Sacrifício de Mártir^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4907#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Luz Divina^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4908#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Lâminas Destruidoras^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4909#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Tocaia^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4910#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Choque de Carrinho^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4911#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Ataque Mortal^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4912#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Rajada Certeira^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4913#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Desperado^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+4914#
+[ ^008000Enchant SmartRO^000000 ]
+^0000FF20%+ de dano com a habilidade Vulcão de Flechas^000000
+^FFA500Enchant^000000:
+^ffffff_^000000- Mantos
+^a60536OBS: Só poderá ser equipado 1 por item. Não nos responsabilizamos por perdas de enchant.^000000
+Peso:^777777 0^000000
+#
+
+
 // Smart-Ro Custom Ygg Pets
 9057#
-O ovo onde o bichinho de estimação Blazing Imp dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta em 100 a taxa precisão.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9058#
-O ovo onde o bichinho de estimação Abyss Boss dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta 40% a velocidade de locomoção.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9059#
-O ovo onde o bichinho de estimação almaosce dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFDetecta monstros escondidos.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9060#
-O ovo onde o bichinho de estimação Blue Insectivore Slime dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFLibera o uso da habilidade Esconderijo.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9061#
-O ovo onde o bichinho de estimação Yellow Insectivore Slime dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAo receber dano físico à chance de autoconjurar Kyrie Eleison.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9062#
-O ovo onde o bichinho de estimação Butterfly Wings dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAo receber dano físico à chance de autoconjurar Escudo Sagrado.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9063#
-O ovo onde o bichinho de estimação CD dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAo receber dano físico à chance de autoconjurar Chuva de meteóros.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9064#
-O ovo onde o bichinho de estimação Doram dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFReduz o delay de habilidades em 15%.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9065#
-O ovo onde o bichinho de estimação EmissionBat dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFIgnora 10% de defesa mágica.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9066#
-O ovo onde o bichinho de estimação Eye of Time dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta 10% o dano em monstros.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
+
 9067#
-O ovo onde o bichinho de estimação fahrros dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta 10 a esquiva perfeita e 50 a esquiva.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9068#
-O ovo onde o bichinho de estimação Flying Mote dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta 1000 a capacidade de peso.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9069#
-O ovo onde o bichinho de estimação Frozen Rose dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta 10% do HP e SP.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9070#
-O ovo onde o bichinho de estimação HARMOR dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta a chance de drop de cartas LHZ.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9071#
-O ovo onde o bichinho de estimação HAZ SPPO dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta o ataque em 500.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9072#
-O ovo onde o bichinho de estimação LIGHTNINGGUARD dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAumenta o ataque mágico em 500.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
 9073#
-O ovo onde o bichinho de estimação mano dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAo atacar o inimigo à chance de conjurar Lanças de Fogo, Relampgo e Lanças de Gelo.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
+
+
 9074#
-O ovo onde o bichinho de estimação CMKN WTRAININGD dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9075#
-O ovo onde o bichinho de estimação Mote dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9076#
-O ovo onde o bichinho de estimação Nightmare Golem dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9077#
-O ovo onde o bichinho de estimação Nightmare Mushroom dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9078#
-O ovo onde o bichinho de estimação Papercraft Horror dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9079#
-O ovo onde o bichinho de estimação plantsoul dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9080#
-O ovo onde o bichinho de estimação PriestMummy dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9081#
-O ovo onde o bichinho de estimação Puppet dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9082#
-O ovo onde o bichinho de estimação Raven1 dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9083#
-O ovo onde o bichinho de estimação Red Headphones dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9084#
-O ovo onde o bichinho de estimação Yellow Headphones dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9085#
-O ovo onde o bichinho de estimação Sign Ghost dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9086#
-O ovo onde o bichinho de estimação Stoplight Ghost dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9087#
-O ovo onde o bichinho de estimação Tantalus dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9088#
-O ovo onde o bichinho de estimação treesoul dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
-Alimento: ^777777Bolo para Bichinho^000000
-Tipo: ^777777Ovo de Bichinho^000000
-#
-9089#
-O ovo onde o bichinho de estimação thanat2 dorme.
-Bônus para lealdade alta: DEF +1, Aumenta a resistência a ataques de Humanoides em 1%.
+[ ^008000Ovo SmartRO^000000 ]
+^0000FFAo atacar o inimigo à chance de conjurar Lex Aeterna.^000000
+
 Alimento: ^777777Bolo para Bichinho^000000
 Tipo: ^777777Ovo de Bichinho^000000
 #
@@ -49433,51 +50040,97 @@ Tipo: ^777777Ovo de Bichinho^000000
 
 // ============================================= SMARTRO CARTAS CUSTOM ====================================================== //
 // Cartas LHZ04 MVP'S
+4359#
+[ ^008000LHZ Card SmartRO^000000 ]
+Permite o uso de Furtividade nv. 3.
+Tipo de Item: ^777777Carta^000000
+Combina com: ^777777Sapatos^000000
+Peso: ^7777771^000000
+#
+
+4357#
+[ ^008000LHZ Card SmartRO^000000 ]
+Permite o uso de Frenesi. Reduz o HP máximo em 50%.
+15% a mais de dano na propriedade sagrado.
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Equipamento para a cabeça^000000
+Peso: ^7777771^000000
+#
+
+4361#
+[ ^008000LHZ Card SmartRO^000000 ]
+10% de chance de destruir a arma do inimigo e 7% de chance de destruir sua armadura a cada vez que o usuário atacar fisicamente.
+10% a mais de dano em humanos.
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+
+4363#
+[ ^008000LHZ Card SmartRO^000000 ]
+Torna o usuário imune a [Atordoamento].
+Torna o usuário imune a [Silêncio].
+25% a mais de dano com a habilidade Luz Divina.
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Equipamento para a cabeça^000000
+Peso: ^7777771^000000
+#
+
+4365#
+[ ^008000LHZ Card SmartRO^000000 ]
+Aumenta o tempo de conjuração variável em 100%, e reduz a recuperação de SP em 100%, mas os ataques do usuário ignoram a DEFM de monstros normais.
+5% a mais de dano mágico em humanos.
+Drena 2.000 SP quando o capacete equipado é retirado.
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Equipamento para a cabeça^000000
+Peso: ^7777771^000000
+#
+
+4367#
+[ ^008000LHZ Card SmartRO^000000 ]
+25% a mais de dano a distância, chance de causar sangramento e silêncio.
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+
 30015#
-Uma Carta de um Paladino que ultrapassou seus limites , e após a morte sua alma ainda não descansa.
-^ffffff_^000000
-Bonus: ^0000FFAo receber dano físico , há uma grande chance de Conjurar Cruz Divinum. Maximum HP +10 %.^FF0000
-Bonus: ^0000FFSe INT é de 110 ou mais , HP adicional 10 %.^FF0000
-
-Peso: ^6666661^000000
-Tipo: ^666666carta^000000
-Equipa em: ^666666Armadura^000000
+[ ^008000LHZ Card SmartRO^000000 ]
+Máximo HP +120%,
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Armadura^000000
+Peso: ^7777771^000000
 #
+
+
 30002#
-Uma Carta de um Criador que desenvolveu uma alquimia tão poderosa, que ninguem foi capaz de contê-la, até mesmo seu criador morreu.Sua alma ainda vaga sobe o BioLaboratório de Lighthalzen.
-^ffffff_^000000
-Bonus: Ao receber dano físico , há uma grande chance de conjurar Terror Ácido.CRI 20
-Bonus:  ^0000FFSe STR é de 110 ou mais , adicional +20 CRI .^FF0000.
-
-Peso: ^6666661^000000
-Tipo: ^666666carta^000000
-Equipa em: ^666666Armadura^000000
+[ ^008000LHZ Card SmartRO^000000 ]
+10% a mais de dano com a habilidade Bomba Ácida.
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Arma^000000
+Peso: ^7777771^000000
 #
+
 30003#
-Uma Carta de uma Professora Maligna, cujos interesses eram dominar todas as magias negras, sua alma se corrompeu e continua vagando sobre BioLaboratório de Lighthalzen.
-^ffffff_^000000
-Bonus: Quando atingido por magia , há uma grande chance de conjurar Proteger Terreno. MATK 7 %
-Bonus: Se DEX é de 110 ou mais , 14 % MATK 
-
-Peso: ^6666661^000000
-Tipo: ^666666carta^000000
-Equipa em: ^666666Armadura^000000
+[ ^008000LHZ Card SmartRO^000000 ]
+Encanta a vestimenta com a Propriedade Fantasma
+HP/SP +10%
+Tipo de Item: ^777777Carta^000000
+Equipado em: ^777777Armadura^000000
+Peso: ^7777771^000000
 #
+
 30004#
-Uma Carta de um Mestre que fugiu do monastério, em busca de um poder absoluto.Dado como sumido, há rumores de sua alma vagando sobre BioLaboratório de Lighthalzen.
-^ffffff_^000000
-Bonus: Ao receber dano físico , há uma grande chance de conjurar a habilidade Impacto Psíquico. ATK 7 %
-Bonus: Se AGI é de 110 ou mais , 14 % ATK .
-
+[ ^008000LHZ Card SmartRO^000000 ]
+Inflige 25% a mais de dano em monstros de propriedade Fantasma.
+10% a mais de dano com a habilidade Disparo de Esferas Espirituais.
 Peso: ^6666661^000000
 Tipo: ^666666carta^000000
-Equipa em: ^666666Armadura^000000
+Equipa em: ^666666Arma^000000
 #
+
 30005#
-Uma Carta de uma Desordeira que afanava todas as cidades, Após sua morte, sua alma foi aprisionada em BioLaboratório de Lighthalzen.
-^ffffff_^000000
-Bonus: Ao receber dano físico , há uma grande chance de conjurar Remoção Total . HIT +20
-Bonus: Se LUK é de 110 ou mais , 20 HIT adicional.
+[ ^008000LHZ Card SmartRO^000000 ]
 
 Peso: ^6666661^000000
 Tipo: ^666666carta^000000
@@ -49485,24 +50138,20 @@ Equipa em: ^666666Armadura^000000
 Servidor: ^0000FFEvolution^FF0000BR^000000
 #
 30006#
-Uma Carta de Menestrel que passou dias de sua vida compondo musicas e poesias, morreu de flúido sanguíneo, sua alma vaga sobre BioLaboratório de Lighthalzen.
-^ffffff_^000000
-Bonus: Permite o uso de Poema de Bragi em nível 10. Esquiva +20 
-Bonus: Se VIT é 110 ou mais , +20 adicional esquiva.
-
+[ ^008000LHZ Card SmartRO^000000 ]
+Reduz o delay em 15%.
+Se VIT é 110 ou mais , +20 adicional esquiva.
 Peso: ^6666661^000000
 Tipo: ^666666carta^000000
-Equipa em: ^666666Armadura^000000
+Equipa em: ^666666Sapatos^000000
 #
 30007#
-Uma Carta de uma Cigana BioLaboratório de Lighthalzen.
-^ffffff_^000000
-Bonus: Permite o uso de nível 10 da habilidade Beijo da Cigana. Esquiva +20
-Bonus: Se VIT é 110 ou mais , +20 adicional esquiva.
-
+[ ^008000LHZ Card SmartRO^000000 ]
+Aumenta a velocidade de locomoção.
+Se VIT é 110 ou mais , +20 adicional esquiva.
 Peso: ^6666661^000000
 Tipo: ^666666carta^000000
-Equipa em: ^666666Armadura^000000
+Equipa em: ^666666Sapatos^000000
 #
 
 // Cartas LHZ04
@@ -49570,15 +50219,41 @@ Tipo: ^666666carta^000000
 Equipa em: ^666666Manto^000000
 #
 
-28000#PLACA DE ADM#
-28001#PLACA DE GM#
-28002#PLACA DE CM#
-28003#PLACA DE EM#
-28004#290#
 28005#
-Uma licença do servidor ^FF6600SmartRO^000000 para os Mercadores, que permite abrir uma Loja em ^0000FFPRONTERA^000000.
+Item usado para anunciar sua loja ao usar ^FF6600@autotrade^000000. Anunciará a todos a abertura da sua loja com coordenadas exatas.
 Peso : ^7777771^000000
 #
 
+28500#
+[ ^008000Custom SmartRO^000000 ]
+Há chance de Petrificar os inimigos ao atacá-los com Flechas de Pedra.
+25% a mais de dano quando usado com Flechas de Pedra.
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a60536Aumento de 15% no dano de Rajada de Flechas.^000000
+^a60536Aumento de 15% no dano de Tiro Preciso.^000000
+Tipo de Item: ^777777Arco^000000
+Força de ataque: ^777777105^000000
+Peso: ^777777140^000000
+Nv. da Arma: ^7777773^000000
+Nível necessário: ^77777755^000000
+Classes que utilizam: ^777777Arqueiro/Arruaceiro^000000
+#
+
+28501#
+10% de dano adicional contra monstros de propriedade Neutro.
+Ao atacar, há chance de lançar automaticamente Lanças de Fogo, Lanças de Gelo, Relâmpago e Coluna de Pedra.
+[ ^FF0000+10 de Refinamento^000000 ]
+^a60536Todos Status +10.^000000
+[ ^FF0000+20 de Refinamento^000000 ]
+^a6053610% a mais de dano em humanos.^000000
+Classe: ^777777Adaga^000000
+Força de Ataque: ^77777770^000000
+Peso: ^77777750^000000
+Propriedade: ^777777Fogo^000000
+Nível da arma: ^7777774^000000
+Nível necessário: ^77777736^000000
+Classes que utilizam: ^777777Espadachim/ Mago/ Arqueiro/ Mercador/ Gatuno e as respectivas evoluções/ Espiritualista e Ninja^000000
 
 //file end
